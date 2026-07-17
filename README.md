@@ -63,6 +63,14 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
+## Visualizations
+<img width="49%" alt="image" src="https://github.com/user-attachments/assets/562b7cd7-54a6-4352-bdb9-dc0d2e9a70c7" />
+<img width="49%" alt="image" src="https://github.com/user-attachments/assets/98e267f6-8033-4061-b826-9fb651b42c73" />
+<img width="49%" alt="50%" src="https://github.com/user-attachments/assets/9ac14920-011c-4a55-a386-91c9caf85b36" />
+<img width="49%" alt="50%" src="https://github.com/user-attachments/assets/d0c24e98-d647-4e41-b90e-63cf10cfe206" />
+
+---
+
 ## Usage
 
 Place all `.xpt` data files in `ds2500-project/NHANES_data/`, then run:
